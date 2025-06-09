@@ -24,6 +24,7 @@ func Usage() {
 }
 
 func Help() {
+	Usage()
 	fmt.Println("Your personal task tracker\nOPTIONS\nadd - adding a new task\ndelete - deleting tasks\nupdate - updating task")
 	fmt.Println("mark-in-progress - marking a task as in progress\nmark-done - marking a task as done")
 	fmt.Println("list [done / todo / in-progress] - listing all tasks / by status")
