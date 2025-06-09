@@ -20,7 +20,7 @@ type Task struct {
 }
 
 func Usage() {
-	fmt.Println("Usage: task OPTION [ID] [TEXT]")
+	fmt.Println("Usage: ./task-tracker OPTION [ID] [TEXT]")
 }
 
 func Help() {
