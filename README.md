@@ -1,4 +1,4 @@
-# Simple task manager
+# A simple task manager
 
 ## Description
 
