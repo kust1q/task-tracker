@@ -2,7 +2,7 @@
 
 ## Description
 
-First simple roadmap project, CLI
+A simple CLI task tracker
 
 ## Usage 
 
